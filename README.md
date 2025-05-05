@@ -2,7 +2,8 @@
 - 👀 I’m interested in rare disease pharmacology
 - 🌱 I’m currently at pursuing an MA in Biotechnology at Columbia University
 - 💞️ I’m looking to collaborate on machine learning for pharmacometric analysis
-- ⚡ Fun fact: I collect rocks, gems, and minerals 
+- ⚡ Fun fact: I collect rocks, gems, and minerals
+- 🤔 That wasn't really fun: I know, I'm working on it
 
 <!---
 jsgraydon/jsgraydon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
